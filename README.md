@@ -1,4 +1,4 @@
-![Photo](assets/img/photo "Photo")
+![Photo](assets/img/computer.jpg "Photo")
 
 ## About me
 
